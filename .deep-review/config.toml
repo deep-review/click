@@ -1,0 +1,5 @@
+# The review policy of this copy of pallets/click, the base of a gate run of
+# deep-review: it reviews in Korean.
+schema = 1
+
+review.language = "ko"
